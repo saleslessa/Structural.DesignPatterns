@@ -27,7 +27,7 @@ The objective of this pattern is to compose objects into tree-structures to repr
 - Code
 This code is composed by two types of class: leaf and composite. All classes shares the same parent abstract class.
     - **Leaf**: Classes which has simple behaviors, in this example they are simple geometrical forms, like horizontal line or vertical line.
-    - **Composite**: Classes that controls the use of one or more leaf class. They have same parent abstract class that leaf classes, the difference between them is their behaviors. In this example the *Picture* class has a dynamic list of leafs and the *Draw()* method call all draw methods of it's childs.
+    - **Composite**: Classes that controls the use of one or more leaf class. They have same parent abstract class that leaf classes, the difference between them is their behaviors. In this example the *Picture* class has a dynamic list of leafs and the *Draw()* method call all draw methods of it's childs.
 
 ## Decorator
 - Objective
