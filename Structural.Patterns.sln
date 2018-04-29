@@ -1,0 +1,29 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Decorator", "Decorator\Decorator.csproj", "{C847DC5D-AAFD-40C8-A161-A539CEF9B080}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Composite", "Composite\Composite.csproj", "{D141A091-A570-442E-88F2-1BB8CE45C835}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adapter", "Adapter\Adapter.csproj", "{98B7E1F7-00AD-4FE8-B145-D6A49DFC8160}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C847DC5D-AAFD-40C8-A161-A539CEF9B080}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{C847DC5D-AAFD-40C8-A161-A539CEF9B080}.Debug|x86.Build.0 = Debug|Any CPU
+		{C847DC5D-AAFD-40C8-A161-A539CEF9B080}.Release|x86.ActiveCfg = Release|Any CPU
+		{C847DC5D-AAFD-40C8-A161-A539CEF9B080}.Release|x86.Build.0 = Release|Any CPU
+		{D141A091-A570-442E-88F2-1BB8CE45C835}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{D141A091-A570-442E-88F2-1BB8CE45C835}.Debug|x86.Build.0 = Debug|Any CPU
+		{D141A091-A570-442E-88F2-1BB8CE45C835}.Release|x86.ActiveCfg = Release|Any CPU
+		{D141A091-A570-442E-88F2-1BB8CE45C835}.Release|x86.Build.0 = Release|Any CPU
+		{98B7E1F7-00AD-4FE8-B145-D6A49DFC8160}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{98B7E1F7-00AD-4FE8-B145-D6A49DFC8160}.Debug|x86.Build.0 = Debug|Any CPU
+		{98B7E1F7-00AD-4FE8-B145-D6A49DFC8160}.Release|x86.ActiveCfg = Release|Any CPU
+		{98B7E1F7-00AD-4FE8-B145-D6A49DFC8160}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
