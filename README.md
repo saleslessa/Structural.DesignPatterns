@@ -10,7 +10,7 @@ Structural patterns has the concern with the form of classes and objects are com
 - Objective
 The objective of this pattern is convert a class interface into another interface that is expected by new client. Adapter lets classes work together that couldn't otherwise because of incompatible structures.
 - Applicability
-    - When you want to use an existent class, but it's interface doesn't correspond to client's neededs.
+    - When you want to use an existent class, but it's interface doesn't correspond to client's needs.
     - When you want to call an reusable class that work with another non-related code or doesn't have compatible interfaces
 - Code
 This code is composed by three classes: Adapter, Adaptee and Target
