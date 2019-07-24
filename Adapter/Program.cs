@@ -13,7 +13,7 @@ namespace Adapter
         {
             Console.WriteLine("Hello World!");
             // Create adapter and place a request
-            Target target = new Adapter();
+            var target = new Adapter();
             target.Request();
 
             Console.ReadKey();
